@@ -2,7 +2,7 @@
 ### BIBM 2025 Accepted Short Paper — Prototype for Spatio-Temporal Transcriptomic Integration  
 **Author:** [Yuheng Zhu]  
 **Affiliation:** Jilin University  
-**Version:** RBTN-v2 (Enhanced Distinction)  
+**Version:** RBTN
 **Date:** 2025  
 
 ---
